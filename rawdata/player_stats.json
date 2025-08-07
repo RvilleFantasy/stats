@@ -1,0 +1,770 @@
+{
+    "alex hallmark": [
+        {
+            "year": 2018,
+            "final_standing": 1,
+            "record": "9-4-0",
+            "points_for": 1877.78
+        },
+        {
+            "year": 2020,
+            "final_standing": 3,
+            "record": "7-6-0",
+            "points_for": 1673.19
+        },
+        {
+            "year": 2017,
+            "final_standing": 5,
+            "record": "10-3-0",
+            "points_for": 1430.12
+        },
+        {
+            "year": 2016,
+            "final_standing": 9,
+            "record": "7-6-0",
+            "points_for": 1312.88
+        },
+        {
+            "year": 2021,
+            "final_standing": 8,
+            "record": "6-8-0",
+            "points_for": 1685.19
+        },
+        {
+            "year": 2019,
+            "final_standing": 2,
+            "record": "9-4-0",
+            "points_for": 1693.15
+        },
+        {
+            "year": 2024,
+            "final_standing": 8,
+            "record": "5-9-0",
+            "points_for": 1603.05
+        },
+        {
+            "year": 2022,
+            "final_standing": 3,
+            "record": "9-5-0",
+            "points_for": 1846.05
+        },
+        {
+            "year": 2015,
+            "final_standing": 1,
+            "record": "8-5-0",
+            "points_for": 1127.02
+        },
+        {
+            "year": 2023,
+            "final_standing": 7,
+            "record": "6-8-0",
+            "points_for": 1629.67
+        }
+    ],
+    "Chris K, Jaipartap Ranu": [
+        {
+            "year": 2018,
+            "final_standing": 2,
+            "record": "11-2-0",
+            "points_for": 1837.05
+        },
+        {
+            "year": 2017,
+            "final_standing": 7,
+            "record": "6-7-0",
+            "points_for": 1271.42
+        }
+    ],
+    "Andrew DiMaggio": [
+        {
+            "year": 2018,
+            "final_standing": 3,
+            "record": "9-4-0",
+            "points_for": 1782.99
+        },
+        {
+            "year": 2020,
+            "final_standing": 8,
+            "record": "7-6-0",
+            "points_for": 1628.04
+        },
+        {
+            "year": 2017,
+            "final_standing": 10,
+            "record": "4-9-0",
+            "points_for": 1230.92
+        },
+        {
+            "year": 2021,
+            "final_standing": 11,
+            "record": "2-12-0",
+            "points_for": 1435.03
+        },
+        {
+            "year": 2019,
+            "final_standing": 10,
+            "record": "5-8-0",
+            "points_for": 1479.96
+        },
+        {
+            "year": 2024,
+            "final_standing": 10,
+            "record": "7-7-0",
+            "points_for": 1758.58
+        },
+        {
+            "year": 2022,
+            "final_standing": 1,
+            "record": "9-5-0",
+            "points_for": 1775.17
+        },
+        {
+            "year": 2023,
+            "final_standing": 9,
+            "record": "6-8-0",
+            "points_for": 1624.27
+        }
+    ],
+    "rob guiducci": [
+        {
+            "year": 2018,
+            "final_standing": 4,
+            "record": "8-5-0",
+            "points_for": 1746.33
+        },
+        {
+            "year": 2020,
+            "final_standing": 2,
+            "record": "6-7-0",
+            "points_for": 1662.06
+        },
+        {
+            "year": 2021,
+            "final_standing": 6,
+            "record": "8-6-0",
+            "points_for": 1786.42
+        },
+        {
+            "year": 2019,
+            "final_standing": 6,
+            "record": "7-6-0",
+            "points_for": 1645.69
+        },
+        {
+            "year": 2024,
+            "final_standing": 1,
+            "record": "9-5-0",
+            "points_for": 1705.09
+        },
+        {
+            "year": 2022,
+            "final_standing": 10,
+            "record": "6-8-0",
+            "points_for": 1590.64
+        },
+        {
+            "year": 2023,
+            "final_standing": 5,
+            "record": "4-10-0",
+            "points_for": 1769.03
+        }
+    ],
+    "David holzbaur": [
+        {
+            "year": 2018,
+            "final_standing": 5,
+            "record": "7-6-0",
+            "points_for": 1638.23
+        },
+        {
+            "year": 2020,
+            "final_standing": 11,
+            "record": "6-7-0",
+            "points_for": 1555.68
+        },
+        {
+            "year": 2017,
+            "final_standing": 4,
+            "record": "6-7-0",
+            "points_for": 1307.92
+        },
+        {
+            "year": 2016,
+            "final_standing": 10,
+            "record": "4-9-0",
+            "points_for": 1214.06
+        },
+        {
+            "year": 2021,
+            "final_standing": 12,
+            "record": "4-10-0",
+            "points_for": 1486.41
+        },
+        {
+            "year": 2019,
+            "final_standing": 11,
+            "record": "4-9-0",
+            "points_for": 1305.57
+        },
+        {
+            "year": 2024,
+            "final_standing": 9,
+            "record": "6-8-0",
+            "points_for": 1573.07
+        },
+        {
+            "year": 2022,
+            "final_standing": 7,
+            "record": "6-8-0",
+            "points_for": 1618.17
+        },
+        {
+            "year": 2015,
+            "final_standing": 4,
+            "record": "7-6-0",
+            "points_for": 1164.54
+        },
+        {
+            "year": 2023,
+            "final_standing": 10,
+            "record": "5-9-0",
+            "points_for": 1623.23
+        }
+    ],
+    "Ralph Petagna": [
+        {
+            "year": 2018,
+            "final_standing": 6,
+            "record": "8-5-0",
+            "points_for": 1690.87
+        },
+        {
+            "year": 2020,
+            "final_standing": 9,
+            "record": "4-9-0",
+            "points_for": 1605.76
+        },
+        {
+            "year": 2016,
+            "final_standing": 12,
+            "record": "6-7-0",
+            "points_for": 1258.5
+        },
+        {
+            "year": 2021,
+            "final_standing": 5,
+            "record": "8-6-0",
+            "points_for": 1734.35
+        },
+        {
+            "year": 2019,
+            "final_standing": 4,
+            "record": "8-5-0",
+            "points_for": 1507.19
+        },
+        {
+            "year": 2024,
+            "final_standing": 11,
+            "record": "5-9-0",
+            "points_for": 1549.92
+        },
+        {
+            "year": 2022,
+            "final_standing": 9,
+            "record": "6-8-0",
+            "points_for": 1581.24
+        },
+        {
+            "year": 2015,
+            "final_standing": 11,
+            "record": "4-9-0",
+            "points_for": 980.52
+        },
+        {
+            "year": 2023,
+            "final_standing": 12,
+            "record": "2-12-0",
+            "points_for": 1431.08
+        }
+    ],
+    "Nick Brennan": [
+        {
+            "year": 2018,
+            "final_standing": 7,
+            "record": "6-7-0",
+            "points_for": 1591.55
+        },
+        {
+            "year": 2020,
+            "final_standing": 1,
+            "record": "10-3-0",
+            "points_for": 1644.24
+        },
+        {
+            "year": 2021,
+            "final_standing": 10,
+            "record": "7-7-0",
+            "points_for": 1625.27
+        },
+        {
+            "year": 2019,
+            "final_standing": 8,
+            "record": "5-8-0",
+            "points_for": 1455.27
+        },
+        {
+            "year": 2024,
+            "final_standing": 12,
+            "record": "2-12-0",
+            "points_for": 1386.86
+        },
+        {
+            "year": 2022,
+            "final_standing": 5,
+            "record": "8-6-0",
+            "points_for": 1717.18
+        },
+        {
+            "year": 2023,
+            "final_standing": 8,
+            "record": "7-7-0",
+            "points_for": 1557.25
+        }
+    ],
+    "Chris Deck": [
+        {
+            "year": 2018,
+            "final_standing": 8,
+            "record": "5-8-0",
+            "points_for": 1622.87
+        },
+        {
+            "year": 2017,
+            "final_standing": 2,
+            "record": "8-5-0",
+            "points_for": 1346.92
+        },
+        {
+            "year": 2016,
+            "final_standing": 2,
+            "record": "7-6-0",
+            "points_for": 1396.24
+        },
+        {
+            "year": 2019,
+            "final_standing": 1,
+            "record": "5-8-0",
+            "points_for": 1583.3
+        },
+        {
+            "year": 2015,
+            "final_standing": 9,
+            "record": "6-7-0",
+            "points_for": 1205.28
+        }
+    ],
+    "Ryan Walter": [
+        {
+            "year": 2018,
+            "final_standing": 9,
+            "record": "5-8-0",
+            "points_for": 1489.86
+        },
+        {
+            "year": 2020,
+            "final_standing": 10,
+            "record": "5-8-0",
+            "points_for": 1492.64
+        },
+        {
+            "year": 2017,
+            "final_standing": 3,
+            "record": "11-2-0",
+            "points_for": 1494.08
+        },
+        {
+            "year": 2021,
+            "final_standing": 2,
+            "record": "9-5-0",
+            "points_for": 1748.1
+        },
+        {
+            "year": 2019,
+            "final_standing": 9,
+            "record": "2-11-0",
+            "points_for": 1397.89
+        },
+        {
+            "year": 2024,
+            "final_standing": 2,
+            "record": "7-7-0",
+            "points_for": 1777.87
+        },
+        {
+            "year": 2022,
+            "final_standing": 6,
+            "record": "8-6-0",
+            "points_for": 1666.03
+        },
+        {
+            "year": 2023,
+            "final_standing": 3,
+            "record": "8-6-0",
+            "points_for": 1680.07
+        }
+    ],
+    "Marty McGowan": [
+        {
+            "year": 2018,
+            "final_standing": 10,
+            "record": "5-8-0",
+            "points_for": 1553.28
+        },
+        {
+            "year": 2020,
+            "final_standing": 12,
+            "record": "3-10-0",
+            "points_for": 1417.82
+        },
+        {
+            "year": 2017,
+            "final_standing": 9,
+            "record": "4-9-0",
+            "points_for": 1210.26
+        },
+        {
+            "year": 2016,
+            "final_standing": 1,
+            "record": "9-4-0",
+            "points_for": 1483.46
+        },
+        {
+            "year": 2021,
+            "final_standing": 9,
+            "record": "6-8-0",
+            "points_for": 1656.26
+        },
+        {
+            "year": 2019,
+            "final_standing": 3,
+            "record": "11-2-0",
+            "points_for": 1836.55
+        },
+        {
+            "year": 2024,
+            "final_standing": 6,
+            "record": "8-6-0",
+            "points_for": 1604.97
+        },
+        {
+            "year": 2022,
+            "final_standing": 4,
+            "record": "11-3-0",
+            "points_for": 1783.98
+        },
+        {
+            "year": 2015,
+            "final_standing": 3,
+            "record": "11-2-0",
+            "points_for": 1328.8
+        },
+        {
+            "year": 2023,
+            "final_standing": 2,
+            "record": "11-3-0",
+            "points_for": 1789.57
+        }
+    ],
+    "Matthew Smith": [
+        {
+            "year": 2018,
+            "final_standing": 11,
+            "record": "4-9-0",
+            "points_for": 1559.08
+        },
+        {
+            "year": 2020,
+            "final_standing": 5,
+            "record": "8-5-0",
+            "points_for": 1613.37
+        },
+        {
+            "year": 2017,
+            "final_standing": 6,
+            "record": "8-5-0",
+            "points_for": 1342.66
+        },
+        {
+            "year": 2016,
+            "final_standing": 6,
+            "record": "8-5-0",
+            "points_for": 1436.6
+        },
+        {
+            "year": 2021,
+            "final_standing": 1,
+            "record": "9-5-0",
+            "points_for": 1826.5
+        },
+        {
+            "year": 2019,
+            "final_standing": 5,
+            "record": "11-2-0",
+            "points_for": 1784.68
+        },
+        {
+            "year": 2024,
+            "final_standing": 5,
+            "record": "9-5-0",
+            "points_for": 1857.92
+        },
+        {
+            "year": 2022,
+            "final_standing": 11,
+            "record": "3-11-0",
+            "points_for": 1353.32
+        },
+        {
+            "year": 2015,
+            "final_standing": 7,
+            "record": "5-8-0",
+            "points_for": 1197.38
+        },
+        {
+            "year": 2023,
+            "final_standing": 1,
+            "record": "11-3-0",
+            "points_for": 1951.21
+        }
+    ],
+    "Mark Dziubas": [
+        {
+            "year": 2018,
+            "final_standing": 12,
+            "record": "1-12-0",
+            "points_for": 1162.84
+        },
+        {
+            "year": 2016,
+            "final_standing": 11,
+            "record": "5-8-0",
+            "points_for": 1230.66
+        },
+        {
+            "year": 2015,
+            "final_standing": 10,
+            "record": "3-10-0",
+            "points_for": 978.72
+        }
+    ],
+    "Jaipartap Ranu": [
+        {
+            "year": 2020,
+            "final_standing": 4,
+            "record": "10-3-0",
+            "points_for": 1631.78
+        },
+        {
+            "year": 2021,
+            "final_standing": 3,
+            "record": "9-5-0",
+            "points_for": 1785.33
+        },
+        {
+            "year": 2019,
+            "final_standing": 12,
+            "record": "5-8-0",
+            "points_for": 1443.6
+        },
+        {
+            "year": 2024,
+            "final_standing": 7,
+            "record": "6-8-0",
+            "points_for": 1619.73
+        },
+        {
+            "year": 2022,
+            "final_standing": 2,
+            "record": "10-4-0",
+            "points_for": 1646.23
+        },
+        {
+            "year": 2015,
+            "final_standing": 6,
+            "record": "8-5-0",
+            "points_for": 1221.2
+        },
+        {
+            "year": 2023,
+            "final_standing": 11,
+            "record": "5-9-0",
+            "points_for": 1596.34
+        }
+    ],
+    "Chris K": [
+        {
+            "year": 2020,
+            "final_standing": 6,
+            "record": "10-3-0",
+            "points_for": 1629.7
+        },
+        {
+            "year": 2016,
+            "final_standing": 3,
+            "record": "7-6-0",
+            "points_for": 1491.1
+        },
+        {
+            "year": 2021,
+            "final_standing": 7,
+            "record": "6-8-0",
+            "points_for": 1585.58
+        },
+        {
+            "year": 2019,
+            "final_standing": 7,
+            "record": "6-7-0",
+            "points_for": 1555.86
+        },
+        {
+            "year": 2024,
+            "final_standing": 3,
+            "record": "10-4-0",
+            "points_for": 1873.54
+        },
+        {
+            "year": 2022,
+            "final_standing": 8,
+            "record": "5-9-0",
+            "points_for": 1597.52
+        },
+        {
+            "year": 2015,
+            "final_standing": 2,
+            "record": "7-6-0",
+            "points_for": 1306.04
+        },
+        {
+            "year": 2023,
+            "final_standing": 4,
+            "record": "11-3-0",
+            "points_for": 1779.63
+        }
+    ],
+    "Billy Lovering": [
+        {
+            "year": 2020,
+            "final_standing": 7,
+            "record": "2-11-0",
+            "points_for": 1400.59
+        },
+        {
+            "year": 2021,
+            "final_standing": 4,
+            "record": "10-4-0",
+            "points_for": 1898.69
+        },
+        {
+            "year": 2024,
+            "final_standing": 4,
+            "record": "10-4-0",
+            "points_for": 1852.71
+        },
+        {
+            "year": 2022,
+            "final_standing": 12,
+            "record": "3-11-0",
+            "points_for": 1497.59
+        },
+        {
+            "year": 2023,
+            "final_standing": 6,
+            "record": "8-6-0",
+            "points_for": 1559.78
+        }
+    ],
+    "Matt McMahon": [
+        {
+            "year": 2017,
+            "final_standing": 1,
+            "record": "7-6-0",
+            "points_for": 1439.66
+        }
+    ],
+    "Dan Mostrangeli": [
+        {
+            "year": 2017,
+            "final_standing": 8,
+            "record": "6-7-0",
+            "points_for": 1189.4
+        }
+    ],
+    "Joshua Fortes": [
+        {
+            "year": 2017,
+            "final_standing": 11,
+            "record": "5-8-0",
+            "points_for": 1188.96
+        }
+    ],
+    "Ryan Malmos": [
+        {
+            "year": 2017,
+            "final_standing": 12,
+            "record": "3-10-0",
+            "points_for": 1076.4
+        }
+    ],
+    "Lauren Budzinski": [
+        {
+            "year": 2016,
+            "final_standing": 4,
+            "record": "8-5-0",
+            "points_for": 1404.98
+        }
+    ],
+    "Jessie Noonan": [
+        {
+            "year": 2016,
+            "final_standing": 5,
+            "record": "7-6-0",
+            "points_for": 1400.98
+        }
+    ],
+    "David Haftel": [
+        {
+            "year": 2016,
+            "final_standing": 7,
+            "record": "4-9-0",
+            "points_for": 1244.78
+        },
+        {
+            "year": 2015,
+            "final_standing": 12,
+            "record": "5-8-0",
+            "points_for": 1118.5
+        }
+    ],
+    "Ahmed Bahgat": [
+        {
+            "year": 2016,
+            "final_standing": 8,
+            "record": "6-7-0",
+            "points_for": 1245.12
+        },
+        {
+            "year": 2015,
+            "final_standing": 8,
+            "record": "7-6-0",
+            "points_for": 1149.4
+        }
+    ],
+    "Ryan Bauer": [
+        {
+            "year": 2015,
+            "final_standing": 5,
+            "record": "7-6-0",
+            "points_for": 1199.02
+        }
+    ]
+}
