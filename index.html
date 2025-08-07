@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Rville Fantasy Hall of Records</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Rville Fantasy</h1>
+    <h2>Hall of Records</h2>
+  </header>
+
+  <div class="tab-buttons">
+    <button id="tab-career" class="active">Career Stats</button>
+    <button id="tab-records">Record Book</button>
+  </div>
+
+  <main>
+    <!-- CAREER STATS -->
+    <section id="career-section">
+      <table id="career-table">
+        <thead>
+          <tr>
+            <th data-key="player_name">Player</th>
+            <th data-key="number_of_seasons">Seasons</th>
+            <th data-key="average_finish">Avg. Finish</th>
+            <th data-key="wins">Record (W-L-D)</th>
+            <th data-key="career_win_percentage">Win %</th>
+            <th data-key="total_points_for">Points Scored</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- rows injected by script.js -->
+        </tbody>
+      </table>
+    </section>
+
+    <!-- RECORD BOOK -->
+    <section id="records-section" hidden>
+      <div id="record-grid">
+        <div class="cell" id="cell-champs">
+          <strong>Championships</strong>
+          <div class="content"></div>
+        </div>
+        <div class="cell" id="cell-mostwins-career">
+          <strong>Most Wins (Career)</strong>
+          <div class="content"></div>
+        </div>
+        <div class="cell" id="cell-regseason">
+          <strong>
+            Regular Season Champion
+            <span class="info-icon" tabindex="0">ℹ️
+              <span class="tooltip">
+                Finish with or tied for the most regular season wins.
+              </span>
+            </span>
+          </strong>
+          <div class="content"></div>
+        </div>
+
+        <div class="cell" id="cell-points-career">
+          <strong>Most Points Scored (Career)</strong>
+          <div class="content"></div>
+        </div>
+        <div class="cell" id="cell-best-avg">
+          <strong>Best Avg. Finish</strong>
+          <div class="content"></div>
+        </div>
+        <div class="cell" id="cell-mostwins-single">
+          <strong>Most Wins (Single Season)</strong>
+          <div class="content"></div>
+        </div>
+
+        <div class="cell" id="cell-longest-streak">
+          <strong>Longest Win Streak (Single Season)</strong>
+          <div class="content"></div>
+        </div>
+        <div class="cell" id="cell-best-scoring">
+          <strong>
+            Best Scoring Season
+            <span class="info-icon" tabindex="0">ℹ️
+              <span class="tooltip">
+                Largest difference between an individual team's "Points Scored"
+                and the league average for that season.
+              </span>
+            </span>
+          </strong>
+          <div class="content"></div>
+        </div>
+        <div class="cell" id="cell-blowout">
+          <strong>Biggest Blowout</strong>
+          <div class="content"></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
